@@ -1,4 +1,4 @@
-//FileName : "HelloWorld.java".
+//FileName "HelloWorld.java"
 class HelloWorld
 {
     public static void main(String args[])
