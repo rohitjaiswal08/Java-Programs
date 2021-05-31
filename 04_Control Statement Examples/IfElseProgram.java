@@ -14,5 +14,4 @@ class IfElseProgram
 		}
     }
 }
-
 // Output : 30 is greater than 25
