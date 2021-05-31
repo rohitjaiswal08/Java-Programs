@@ -19,4 +19,17 @@
 8. Method
 9. Constructor
 ***
-##### Java Programs
+##### Java Programs 
+14. Greatest of two number
+15. Greatest of three number
+16. Even Odd 
+17. Factorial number
+18. Fibonacci series
+19. Leap year
+20. Multiplication table
+21. Reverse number
+22. Reverse string
+23. Palindrome number
+24. Palindrome string
+25. Swap two numbers using third variable
+26. Swap two numbers without using third variable
