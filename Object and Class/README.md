@@ -1,1 +1,0 @@
-* Object and Class Example
