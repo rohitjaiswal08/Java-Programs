@@ -1,7 +1,7 @@
 public class GreaterNo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int num1=5, num2=10;
 		if(num1>num2)
 		{
@@ -12,3 +12,7 @@ public class GreaterNo {
 		}
 	}
 }
+/*
+Output : 
+10 is greater
+*/
