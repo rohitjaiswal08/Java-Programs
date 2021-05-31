@@ -12,3 +12,8 @@
 	* Ternary Operator and
 	* Assignment Operator
 4. Control Statements
+5. Break and Continue
+6. Object and class
+7. Arrays
+8. Method
+9. Constructor
