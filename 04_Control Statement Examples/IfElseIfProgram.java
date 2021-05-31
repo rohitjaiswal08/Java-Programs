@@ -16,7 +16,6 @@ public class IfElseIfProgram
     }
   }
 }
-
 /*Output : 
 30 is less than 50 but
 30 is greater than 25
